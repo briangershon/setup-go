@@ -29,3 +29,7 @@ Setup Atom Editor
     atom      # this loads Atom with Go env vars
 
     # install `go-plus` plugin
+
+Setup go dep
+
+    go get -u github.com/golang/dep/cmd/dep
