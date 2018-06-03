@@ -32,4 +32,4 @@ Setup Atom Editor
 
 Setup go dep
 
-    go get -u github.com/golang/dep/cmd/dep
+For OSX `brew install dep` or `go get -u github.com/golang/dep/cmd/dep`
